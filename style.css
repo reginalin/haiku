@@ -1,3 +1,8 @@
+header {
+	font-size: 100px;
+	text-align: center;
+}
+
 body {
   	padding-top: 50px;
   	background-color: white;
@@ -6,7 +11,7 @@ body {
 }
 
 h1 {
-	text-align: center;
+	
 }
 
 #quoteDisplay {
