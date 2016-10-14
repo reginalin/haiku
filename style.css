@@ -1,0 +1,14 @@
+body {
+  	padding-top: 50px;
+  	background-color: white;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+h1 {
+	text-align: center;
+}
+
+#quoteDisplay {
+	text-align: center;
+}
