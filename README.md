@@ -1,2 +1,2 @@
-# HaikuGenerator
-Random generator that creates form fluid haiku poems
+# haiku
+Webapp that generates random, form fluid haiku poems
