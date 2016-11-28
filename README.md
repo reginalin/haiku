@@ -1,2 +1,2 @@
 # haiku
-Webapp that generates random, form fluid haiku poems
+Web app that generates random, form fluid haiku poems
